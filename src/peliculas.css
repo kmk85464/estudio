@@ -1,0 +1,17 @@
+div {
+    margin: 10px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: left;
+    background-color: brown;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 20px;
+}
